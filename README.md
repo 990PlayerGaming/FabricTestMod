@@ -10,7 +10,7 @@ The source code will be publicly available under the Open Source policy.
 
 ---
 
-## 🔧 Project Goals
+## Project Goals
 - Reimplement the items, mechanics, and concepts from the Avaritia mod  
 - Learn how to use the Fabric API and mod Minecraft  
 - Make a high-quality and extensible code base  
