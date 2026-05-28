@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "test:block/block_crystal_matrix"
+  }
+}

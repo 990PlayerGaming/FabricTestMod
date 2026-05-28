@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapless",
+  "category": "building",
+  "ingredients": [
+    "test:block_crystal_matrix"
+  ],
+  "result": {
+    "count": 9,
+    "id": "test:resource_crystal_matrix_ingot"
+  }
+}
