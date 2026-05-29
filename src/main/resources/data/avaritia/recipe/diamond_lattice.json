@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "ingredient",
+  "key": {
+    "#": "minecraft:diamond",
+    "$": "minecraft:nether_star"
+  },
+  "pattern": [
+    "#$#",
+    "#$#"
+  ],
+  "result": {
+    "count": 2,
+    "id": "avaritia:diamond_lattice"
+  }
+}

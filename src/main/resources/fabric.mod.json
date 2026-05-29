@@ -1,32 +1,32 @@
 {
 	"schemaVersion": 1,
-	"id": "test",
+	"id": "avaritia",
 	"version": "${version}",
-	"name": "Test",
-	"description": "This is a test mod.",
+	"name": "Avaritia",
+	"description": "This is an Avaritia port to Fabric 1.21.11 by 990PlayerGaming.",
 	"authors": [
 		"990PlayerGaming"
 	],
 	"contact": {
-		"homepage": "",
+		"homepage": "https://github.com/990PlayerGaming/Avaritia-Fabric-1.21.11",
 		"sources": ""
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/test/icon.png",
+	"icon": "assets/avaritia/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.test.Test"
+			"com.avaritia.Avaritia"
 		],
 		"fabric-datagen": [
-			"com.test.TestDataGenerator"
+			"com.avaritia.AvaritiaDataGenerator"
 		],
 		"client": [
-			"com.test.TestClient"
+			"com.avaritia.AvaritiaClient"
 		]
 	},
 	"mixins": [
-		"test.mixins.json"
+		"avaritia.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.19.2",

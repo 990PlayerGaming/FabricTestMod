@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable_with_bottom",
+  "textures": {
+    "front": "avaritia:block/machine/collector/active",
+    "side": "avaritia:block/machine/collector/side",
+    "top": "avaritia:block/machine/collector/top",
+    "bottom": "avaritia:block/machine/collector/top"
+  }
+}

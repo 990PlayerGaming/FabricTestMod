@@ -1,0 +1,8 @@
+{
+  "parent": "block/crafting_table",
+  "textures": {
+    "top":"avaritia:block/crafting/extreme_top",
+    "side": "avaritia:block/crafting/extreme_side",
+    "bottom": "avaritia:block/crafting/extreme_top"
+  }
+}

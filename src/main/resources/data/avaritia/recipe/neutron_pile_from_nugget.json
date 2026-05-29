@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "ingredient",
+  "ingredients":[
+    "avaritia:neutron_nugget"
+  ],
+  "result": {
+    "id": "avaritia:neutron_pile",
+    "count": 9
+  }
+}
